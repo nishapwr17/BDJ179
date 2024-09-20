@@ -12,6 +12,10 @@ public class HomeController {
 	{
 		System.out.println("method m3 is created in git for branching opration");
 	}
+	 public void m4()
+	{
+		System.out.println("method m4 is created in git for branching opration2");
+	}
 	
 	public static void main(String[] args) {
 		System.out.println("welcome");
