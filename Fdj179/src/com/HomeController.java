@@ -8,6 +8,11 @@ public class HomeController {
 	{
 		System.out.println("method m2 is created in git for pull opration");
 	}
+        public void m3()
+	{
+		System.out.println("method m3 is created in git for branching opration");
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("welcome");
 	}
