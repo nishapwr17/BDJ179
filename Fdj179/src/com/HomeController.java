@@ -14,7 +14,7 @@ public class HomeController {
 	}
 	 public void m4()
 	{
-		System.out.println("method m4 is created in git for branching opration2");
+		System.out.println("method m4 is created in git for merging opration");
 	}
 	
 	public static void main(String[] args) {
